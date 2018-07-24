@@ -1,7 +1,7 @@
 var cheerio = require("cheerio");
 var request = require("request");
 
-// First, tell the console what server3.js is doing
+// First, tell the console what server.js is doing
 console.log("\n******************************************\n" +
             "Scrapes one of the pages of 'awwwards.com' \n" +
             "and produces all of the image and it's source URL" +
