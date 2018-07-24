@@ -1,0 +1,22 @@
+{
+  "name": "nodescrape",
+  "version": "1.0.0",
+  "description": "Program for pacer plus",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevintomas0123/nodeScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevintomas0123/nodeScrape/issues"
+  },
+  "homepage": "https://github.com/kevintomas0123/nodeScrape#readme"
+}
